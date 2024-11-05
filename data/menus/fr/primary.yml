@@ -13,8 +13,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Projets
-  target: "/projets/"
+- title: Numéros
+  target: "/numeros/"
   kind: page
   children: []
 
