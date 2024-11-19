@@ -1,0 +1,8 @@
+---
+title: Upper menu
+items:
+- title: L'association *Communication publique*
+  target: https://site.communicationpublique.osuny.site
+  kind: url
+  children: []
+
