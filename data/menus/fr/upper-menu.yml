@@ -5,4 +5,8 @@ items:
   target: https://site.communicationpublique.osuny.site
   kind: url
   children: []
+- title: La revue *Parole publique*
+  target: ''
+  kind: blank
+  children: []
 
