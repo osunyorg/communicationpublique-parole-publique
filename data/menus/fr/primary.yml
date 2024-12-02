@@ -1,6 +1,11 @@
 ---
 title: Menu principal
 items:
+- title: À propos
+  target: "/a-propos/"
+  kind: page
+  children: []
+  file: content/fr/pages/a-propos/_index.html
 - title: Numéros
   target: "/numeros/"
   kind: page
@@ -21,9 +26,4 @@ items:
   kind: page
   children: []
   file: content/fr/organizations/_index.html
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
-  file: content/fr/pages/a-propos/_index.html
 
