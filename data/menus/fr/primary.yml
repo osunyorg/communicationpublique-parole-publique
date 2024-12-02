@@ -11,8 +11,8 @@ items:
   kind: page
   children: []
   file: content/fr/projects/_index.html
-- title: Actualités
-  target: "/actualites/"
+- title: Articles
+  target: "/articles/"
   kind: page
   children: []
   file: content/fr/posts/_index.html
