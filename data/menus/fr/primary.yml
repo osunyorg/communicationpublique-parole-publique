@@ -21,14 +21,4 @@ items:
   kind: page
   children: []
   file: content/fr/pages/auteurs/_index.html
-- title: Personnes
-  target: "/personnes/"
-  kind: page
-  children: []
-  file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
-  file: content/fr/organizations/_index.html
 
