@@ -1,6 +1,11 @@
 ---
 title: Menu principal
 items:
+- title: Numéros
+  target: "/numeros/"
+  kind: page
+  children: []
+  file: content/fr/projects/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -16,9 +21,4 @@ items:
   kind: page
   children: []
   file: content/fr/organizations/_index.html
-- title: Numéros
-  target: "/numeros/"
-  kind: page
-  children: []
-  file: content/fr/projects/_index.html
 
