@@ -11,11 +11,11 @@ fr:
   permalinks:
     projects: /numeros/:year-:slug/
     projects_categories: /numeros/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
+    posts: /articles/:year-:month-:day-:slug/
+    posts_categories: /articles/:slug/
     persons: /personnes/:slug/
     persons_categories: /personnes/categories/:slug/
-    authors: /personnes/:slug/actualites/
+    authors: /personnes/:slug/articles/
   taxonomies:
     administrator: administrators
     author: authors
