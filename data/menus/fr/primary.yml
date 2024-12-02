@@ -16,6 +16,11 @@ items:
   kind: page
   children: []
   file: content/fr/posts/_index.html
+- title: Auteurs
+  target: "/auteurs/"
+  kind: page
+  children: []
+  file: content/fr/pages/auteurs/_index.html
 - title: Personnes
   target: "/personnes/"
   kind: page
@@ -26,9 +31,4 @@ items:
   kind: page
   children: []
   file: content/fr/organizations/_index.html
-- title: Auteurs
-  target: "/auteurs/"
-  kind: page
-  children: []
-  file: content/fr/pages/auteurs/_index.html
 
