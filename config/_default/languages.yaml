@@ -13,9 +13,9 @@ fr:
     projects_categories: /numeros/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/actualites/
+    persons: /personnes/:slug/
+    persons_categories: /personnes/categories/:slug/
+    authors: /personnes/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
