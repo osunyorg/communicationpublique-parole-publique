@@ -6,8 +6,8 @@ items:
   kind: url
   children: []
 - title: La revue *Parole publique*
-  target: ''
-  kind: blank
+  target: "/"
+  kind: url
   children: []
 - title: La communauté *Communicants publics*
   target: https://communaute.communication-publique.fr
