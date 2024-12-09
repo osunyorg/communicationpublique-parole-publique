@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/laurent-riera/"
+    path: "/persons/laurent-riera"
     file: "content/fr/persons/laurent-riera.html"
-    path: "laurent-riera"
     slug: "laurent-riera"
   dates:
     created_at: 2024-10-14T13:06:24+02:00
@@ -65,54 +65,63 @@ image:
   credit: >-
     
 roles:
+  - author
 backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
-      - path: "/a-propos/"
-        file: "pages/a-propos/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
+      - permalink: "/a-propos/"
+        path: "/pages/a-propos"
+        slug: "a-propos"
+        file: "content/fr/pages/a-propos/_index.html"
     posts:
-      - path: "2024/2024-06-03-35-ans"
-        file: "posts/2024/2024-06-03-35-ans.html"
+      - permalink: "/articles/2024-06-03-35-ans/"
+        path: "/posts/2024/2024-06-03-35-ans"
+        slug: "35-ans"
+        file: "content/fr/posts/2024/2024-06-03-35-ans.html"
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "communication-publique-adherent"
-  - "communication-publique-bureau"
-  - "parole-publique-auteur"
-  - "communication-publique-conseil-dadministration"
+  - "communication-publique/adherent"
+  - "communication-publique/bureau"
+  - "parole-publique/auteur"
+  - "communication-publique/conseil-dadministration"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
     categories:
-      - name: "Membre"
-        permalink: "/personnes/categories/communication-publique/adherent/"
-        file: "content/fr/persons_categories/communication-publique-adherent/_index.html"
-        path: "adherent"
-        slug: "communication-publique-adherent"
-      - name: "Bureau"
-        permalink: "/personnes/categories/communication-publique/bureau/"
-        file: "content/fr/persons_categories/communication-publique-bureau/_index.html"
-        path: "bureau"
-        slug: "communication-publique-bureau"
-      - name: "Conseil d'administration"
-        permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
-        file: "content/fr/persons_categories/communication-publique-conseil-dadministration/_index.html"
-        path: "conseil-dadministration"
-        slug: "communication-publique-conseil-dadministration"
+      - permalink: "/personnes/categories/communication-publique/adherent/"
+        path: "/persons_categories/communication-publique/adherent"
+        slug: "communication-publique/adherent"
+        file: "content/fr/persons_categories/communication-publique/adherent/_index.html"
+        name: "Membre"
+      - permalink: "/personnes/categories/communication-publique/bureau/"
+        path: "/persons_categories/communication-publique/bureau"
+        slug: "communication-publique/bureau"
+        file: "content/fr/persons_categories/communication-publique/bureau/_index.html"
+        name: "Bureau"
+      - permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
+        path: "/persons_categories/communication-publique/conseil-dadministration"
+        slug: "communication-publique/conseil-dadministration"
+        file: "content/fr/persons_categories/communication-publique/conseil-dadministration/_index.html"
+        name: "Conseil d'administration"
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Laurent Riéra a commencé son parcours professionnel comme journaliste indépendant avant de s'engager dans la communication publique territoriale. Après des passages par les agglomérations de Saint-Quentin-en-Yvelines et de Grand Paris Sud, il est directeur de la communication pour la ville et la métropole de Rennes, où il accompagne la démarche participative à grande échelle portée par les élus.Il est aujourd'hui pleinement mobilisé autour des enjeux de la communication responsable sur un territoire fortement engagé dans les transitions sociales et environnementales et dans la lutte contre les émissions de gaz à effet de serre.  </p>

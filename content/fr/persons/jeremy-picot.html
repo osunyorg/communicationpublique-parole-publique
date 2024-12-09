@@ -8,8 +8,8 @@ slug: "jeremy-picot"
 meta:
   hugo:
     permalink: "/personnes/jeremy-picot/"
+    path: "/persons/jeremy-picot"
     file: "content/fr/persons/jeremy-picot.html"
-    path: "jeremy-picot"
     slug: "jeremy-picot"
   dates:
     created_at: 2024-12-03T17:18:39+01:00
@@ -59,14 +59,16 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
     events:
     projects:
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -74,11 +76,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Jérémy Picot, maître de conférences en sciences économiques aux universités de Strasbourg et de Caen, appartient au Centre de recherche risques et vulnérabilités (CERREV) et à la chaire Unesco « Pratiques journalistiques ». Il est également consultant en évaluation des politiques publiques et résilience des territoires.</p>

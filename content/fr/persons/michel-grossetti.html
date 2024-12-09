@@ -8,8 +8,8 @@ slug: "michel-grossetti"
 meta:
   hugo:
     permalink: "/personnes/michel-grossetti/"
+    path: "/persons/michel-grossetti"
     file: "content/fr/persons/michel-grossetti.html"
-    path: "michel-grossetti"
     slug: "michel-grossetti"
   dates:
     created_at: 2024-12-03T14:16:53+01:00
@@ -59,14 +59,16 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
     events:
     projects:
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -74,11 +76,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Michel Grossetti, sociologue, directeur de recherche au CNRS, directeur d'études à l'EHESS, est également membre du Laboratoire interdisciplinaire Solidarités, sociétés, territoires à l'université Toulouse-Jean-Jaurès.</p>

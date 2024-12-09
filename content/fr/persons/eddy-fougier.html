@@ -8,8 +8,8 @@ slug: "eddy-fougier"
 meta:
   hugo:
     permalink: "/personnes/eddy-fougier/"
+    path: "/persons/eddy-fougier"
     file: "content/fr/persons/eddy-fougier.html"
-    path: "eddy-fougier"
     slug: "eddy-fougier"
   dates:
     created_at: 2024-12-03T16:54:47+01:00
@@ -59,14 +59,16 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
     events:
     projects:
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -74,11 +76,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Eddy FOUGIER, politologue, consultant indépendant, est chargé d'enseignement à Sciences Po Aix-en-Provence et à Audencia Business School.</p>

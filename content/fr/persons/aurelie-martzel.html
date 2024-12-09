@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/aurelie-martzel/"
+    path: "/persons/aurelie-martzel"
     file: "content/fr/persons/aurelie-martzel.html"
-    path: "aurelie-martzel"
     slug: "aurelie-martzel"
   dates:
     created_at: 2024-10-14T12:56:54+02:00
@@ -69,42 +69,48 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
-      - path: "2024/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite"
-        file: "posts/2024/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite.html"
+      - permalink: "/articles/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite/"
+        path: "/posts/2024/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite"
+        slug: "nouvelle-priorite-de-la-communication-de-letat-transversalite"
+        file: "content/fr/posts/2024/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite.html"
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "communication-publique-adherent"
-  - "communication-publique-conseil-dadministration"
-  - "parole-publique-auteur"
+  - "communication-publique/adherent"
+  - "communication-publique/conseil-dadministration"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
     categories:
-      - name: "Membre"
-        permalink: "/personnes/categories/communication-publique/adherent/"
-        file: "content/fr/persons_categories/communication-publique-adherent/_index.html"
-        path: "adherent"
-        slug: "communication-publique-adherent"
-      - name: "Conseil d'administration"
-        permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
-        file: "content/fr/persons_categories/communication-publique-conseil-dadministration/_index.html"
-        path: "conseil-dadministration"
-        slug: "communication-publique-conseil-dadministration"
+      - permalink: "/personnes/categories/communication-publique/adherent/"
+        path: "/persons_categories/communication-publique/adherent"
+        slug: "communication-publique/adherent"
+        file: "content/fr/persons_categories/communication-publique/adherent/_index.html"
+        name: "Membre"
+      - permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
+        path: "/persons_categories/communication-publique/conseil-dadministration"
+        slug: "communication-publique/conseil-dadministration"
+        file: "content/fr/persons_categories/communication-publique/conseil-dadministration/_index.html"
+        name: "Conseil d'administration"
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Après des études d'histoire et un DESS de communication politique et sociale à la Sorbonne notamment chez Havas, Aurélie Martzel intègre le service communication de l'institut Gustave Roussy. En 1998, elle rejoint Santé publique France où elle passe 11 ans en tant que cheffe du département campagnes (tabac, alcool, nutrition, sida, etc.). Elle intègre ensuite Citéo (éco-organisme en charge du tri et du recyclage des emballages ménagers) dont elle devient directrice de la communication pendant 6 ans. En 2016, elle rejoint Australie pour en devenir directrice générale, en charge des équipes commerciales, du new business et de la communication. En juillet 2021, Aurélie Martzel intègre le service de communication du ministère de l'économie et des finances en tant que sous-directrice. Elle devient la cheffe de service du Sircom en février 2023.  </p>

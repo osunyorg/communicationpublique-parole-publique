@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/sebastien-soubiran/"
+    path: "/persons/sebastien-soubiran"
     file: "content/fr/persons/sebastien-soubiran.html"
-    path: "sebastien-soubiran"
     slug: "sebastien-soubiran"
   dates:
     created_at: 2024-11-15T16:13:22+01:00
@@ -61,18 +61,24 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
-      - path: "2024/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg"
-        file: "posts/2024/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg.html"
+      - permalink: "/articles/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg/"
+        path: "/posts/2024/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg"
+        slug: "le-jardin-des-sciences-de-luniversite-de-strasbourg"
+        file: "content/fr/posts/2024/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg.html"
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -80,11 +86,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Sébastien Soubiran, historien des sciences, est directeur du Jardin des sciences, un département culturel de l’Université de Strasbourg, en charge notamment de la préservation et de la valorisation patrimoine historique de l’université. Depuis 2017, il</p><p>est président du réseau européen sur le patrimoine universitaire, Universeum, et vice-président de l’AMCSTI (réseau national des professionnels de la culture scientifique, technique et industrielle).</p>

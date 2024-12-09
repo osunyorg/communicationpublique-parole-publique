@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/claire-omeara/"
+    path: "/persons/claire-omeara"
     file: "content/fr/persons/claire-omeara.html"
-    path: "claire-omeara"
     slug: "claire-omeara"
   dates:
     created_at: 2024-11-04T10:59:39+01:00
@@ -62,18 +62,24 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
-      - path: "2024/2024-06-03-communiquer-pour-constituer-un-public"
-        file: "posts/2024/2024-06-03-communiquer-pour-constituer-un-public.html"
+      - permalink: "/articles/2024-06-03-communiquer-pour-constituer-un-public/"
+        path: "/posts/2024/2024-06-03-communiquer-pour-constituer-un-public"
+        slug: "communiquer-pour-constituer-un-public"
+        file: "content/fr/posts/2024/2024-06-03-communiquer-pour-constituer-un-public.html"
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -81,11 +87,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Claire O’Méara, DESS spécialisé en communication (Celsa Paris-Sorbonne), est directrice de la communication du Campus Condorcet depuis 2015.</p>

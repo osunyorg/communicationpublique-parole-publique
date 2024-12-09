@@ -8,8 +8,8 @@ slug: "arnaud-mercier"
 meta:
   hugo:
     permalink: "/personnes/arnaud-mercier/"
+    path: "/persons/arnaud-mercier"
     file: "content/fr/persons/arnaud-mercier.html"
-    path: "arnaud-mercier"
     slug: "arnaud-mercier"
   dates:
     created_at: 2024-12-03T11:01:52+01:00
@@ -59,14 +59,16 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
     events:
     projects:
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -74,11 +76,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Arnaud Mercier, professeur en communication à l’Institut français de presse ( Paris 2-Assas), préside la 71e section du Conseil national des universités (CNU). Ancien président du site The Conversation, il a notamment publié #Info : commenter et partager l'actualité sur Twitter et Facebook, éditions de la MSH, 2018.</p>

@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/stephane-foucart/"
+    path: "/persons/stephane-foucart"
     file: "content/fr/persons/stephane-foucart.html"
-    path: "stephane-foucart"
     slug: "stephane-foucart"
   dates:
     created_at: 2024-11-04T11:14:29+01:00
@@ -62,18 +62,24 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
-      - path: "2024/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique"
-        file: "posts/2024/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique.html"
+      - permalink: "/articles/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique/"
+        path: "/posts/2024/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique"
+        slug: "comment-les-lobbys-utilisent-la-desinformation-scientifique"
+        file: "content/fr/posts/2024/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique.html"
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -81,11 +87,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Stéphane Foucart, journaliste au Monde chargé des sciences, notamment de l’environnement, a exploré dans Les gardiens de la raison, coécrit avec Stéphane Horel et Sylvain Laurens, les nouvelles frontières du lobbying et les stratégies de manipulation scientifique des firmes pour instrumentaliser le savoir et pénétrer l’espace public.</p>

@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/nicolas-plantey/"
+    path: "/persons/nicolas-plantey"
     file: "content/fr/persons/nicolas-plantey.html"
-    path: "nicolas-plantey"
     slug: "nicolas-plantey"
   dates:
     created_at: 2024-11-04T10:55:32+01:00
@@ -62,18 +62,24 @@ backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/auteurs/"
-        file: "pages/auteurs/_index.html"
+      - permalink: "/auteurs/"
+        path: "/pages/auteurs"
+        slug: "auteurs"
+        file: "content/fr/pages/auteurs/_index.html"
     posts:
-      - path: "2024/2024-06-03-lacademie-des-sciences-invenit-et-perficit"
-        file: "posts/2024/2024-06-03-lacademie-des-sciences-invenit-et-perficit.html"
+      - permalink: "/articles/2024-06-03-lacademie-des-sciences-invenit-et-perficit/"
+        path: "/posts/2024/2024-06-03-lacademie-des-sciences-invenit-et-perficit"
+        slug: "lacademie-des-sciences-invenit-et-perficit"
+        file: "content/fr/posts/2024/2024-06-03-lacademie-des-sciences-invenit-et-perficit.html"
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "parole-publique-auteur"
+  - "parole-publique/auteur"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
@@ -81,11 +87,11 @@ taxonomies:
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
-      - name: "Auteur"
-        permalink: "/personnes/categories/parole-publique/auteur/"
-        file: "content/fr/persons_categories/parole-publique-auteur/_index.html"
-        path: "auteur"
-        slug: "parole-publique-auteur"
+      - permalink: "/personnes/categories/parole-publique/auteur/"
+        path: "/persons_categories/parole-publique/auteur"
+        slug: "parole-publique/auteur"
+        file: "content/fr/persons_categories/parole-publique/auteur/_index.html"
+        name: "Auteur"
 
 biography: >-
   <p>Nicolas Plantey, ingénieur de formation, directeur de la communication et des événements de l’Académie des sciences depuis 2024, a travaillé dans de grands organismes de recherche publics (CNRS, INRAE) et dans l‘entreprise biopharmaceutique AbbVie France. Il est l‘auteur de nombreux articles notamment dans Le Figaro Santé, The Conversation et Le Courrier Français.</p>
