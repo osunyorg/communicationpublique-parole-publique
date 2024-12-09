@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/armelle-tanvez/"
+    path: "/persons/armelle-tanvez"
     file: "content/fr/persons/armelle-tanvez.html"
-    path: "armelle-tanvez"
     slug: "armelle-tanvez"
   dates:
     created_at: 2024-10-14T13:08:33+02:00
@@ -65,35 +65,40 @@ image:
   credit: >-
     
 roles:
+  - author
 backlinks:
   current_website:
     name: "Parole publique"
     pages:
-      - path: "/a-propos/"
-        file: "pages/a-propos/_index.html"
+      - permalink: "/a-propos/"
+        path: "/pages/a-propos"
+        slug: "a-propos"
+        file: "content/fr/pages/a-propos/_index.html"
     posts:
     events:
     projects:
-      - path: "/numeros/2024-parole-publique-31/"
-        file: "projects/2024-parole-publique-31.html"
+      - permalink: "/numeros/2024-parole-publique-31/"
+        path: "/projects/2024-parole-publique-31"
+        slug: "parole-publique-31"
+        file: "content/fr/projects/2024-parole-publique-31.html"
 
 persons_categories:
-  - "communication-publique-adherent"
-  - "communication-publique-conseil-dadministration"
+  - "communication-publique/adherent"
+  - "communication-publique/conseil-dadministration"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
     categories:
-      - name: "Membre"
-        permalink: "/personnes/categories/communication-publique/adherent/"
-        file: "content/fr/persons_categories/communication-publique-adherent/_index.html"
-        path: "adherent"
-        slug: "communication-publique-adherent"
-      - name: "Conseil d'administration"
-        permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
-        file: "content/fr/persons_categories/communication-publique-conseil-dadministration/_index.html"
-        path: "conseil-dadministration"
-        slug: "communication-publique-conseil-dadministration"
+      - permalink: "/personnes/categories/communication-publique/adherent/"
+        path: "/persons_categories/communication-publique/adherent"
+        slug: "communication-publique/adherent"
+        file: "content/fr/persons_categories/communication-publique/adherent/_index.html"
+        name: "Membre"
+      - permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
+        path: "/persons_categories/communication-publique/conseil-dadministration"
+        slug: "communication-publique/conseil-dadministration"
+        file: "content/fr/persons_categories/communication-publique/conseil-dadministration/_index.html"
+        name: "Conseil d'administration"
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
