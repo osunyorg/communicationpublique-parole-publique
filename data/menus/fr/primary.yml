@@ -4,24 +4,28 @@ items:
 - title: À propos
   target: "/a-propos/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Numéros
   target: "/numeros/"
   kind: page
+  new_tab: false
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Articles
   target: "/articles/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Auteurs
   target: "/auteurs/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/auteurs"
   file: content/fr/pages/auteurs/_index.html
