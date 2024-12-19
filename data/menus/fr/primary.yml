@@ -29,4 +29,9 @@ items:
   children: []
   path: "/pages/auteurs"
   file: content/fr/pages/auteurs/_index.html
+- title: Nous rejoindre
+  target: "/contact"
+  kind: url
+  new_tab: false
+  children: []
 
