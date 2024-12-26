@@ -29,7 +29,7 @@ items:
   children: []
   path: "/pages/auteurs"
   file: content/fr/pages/auteurs/_index.html
-- title: Contactez-nous
+- title: Contact
   target: mailto:todo
   kind: url
   new_tab: false
