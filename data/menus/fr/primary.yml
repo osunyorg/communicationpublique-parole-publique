@@ -34,9 +34,4 @@ items:
   kind: url
   new_tab: false
   children: []
-- title: Nous rejoindre
-  target: "/contact"
-  kind: url
-  new_tab: false
-  children: []
 
