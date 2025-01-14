@@ -2,7 +2,7 @@
 title: Informations légales
 items:
 - title: Contact
-  target: mailto:mail@com
+  target: mailto:secretariat@communication-publique.fr?subject=Contact
   kind: url
   new_tab: false
   children: []
