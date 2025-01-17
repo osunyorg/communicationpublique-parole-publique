@@ -30,8 +30,8 @@ items:
   path: "/pages/auteurs"
   file: content/fr/pages/auteurs/_index.html
 - title: Contact
-  target: mailto:secretariat@communication-publique.fr
+  target: mailto:secretariat@communication-publique.fr?subject=Contact
   kind: url
-  new_tab: false
+  new_tab: true
   children: []
 
