@@ -1,0 +1,6 @@
+projects:
+  next: Volume suivant
+  next_aria: Volume suivant “{{ .Title }}”
+  none: Aucun volume
+  previous: Volume précédent
+  previous_aria: Volume précédent “{{ .Title }}”
