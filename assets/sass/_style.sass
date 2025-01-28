@@ -1,6 +1,6 @@
 // projects's hero, different from 'communication publique'
-header.hero
-    .projects__page &
+.projects__page
+    .hero
         figure
             margin-right: var(--grid-gutter-negative)
             width: calc(#{columns(6)} - var(--grid-gutter))
@@ -20,3 +20,77 @@ header.hero
                 object-fit: cover
                 object-position: center
                 transform: rotate(180deg)
+        .hero-text
+            gap: $spacing-4
+            @include media-breakpoint-up(desktop)
+                padding-bottom: space(28)
+        .dropdown-share
+            .share
+                a
+                    transition: color 0.3s ease
+                    &:hover
+                        color: transparentize($color-background, 0.2)
+            @include media-breakpoint-up(desktop)
+                bottom: 0
+                left: offset(2)
+                right: unset
+                width: fit-content
+                z-index: 9
+                @include media-breakpoint-down(xl)
+                    left: offset(2.5)
+                @media (min-width: 1920px)
+                    left: offset(1.6)
+                button
+                    border: 1px solid var(--btn-background) 
+                    flex-direction: row-reverse
+                    padding: var(--btn-padding)
+                    width: auto
+                    @include media-breakpoint-down(xl)
+                        padding: $btn-padding
+    .document-content
+        @include media-breakpoint-up(desktop)
+            .blocks
+                // to place call to actions buttons at the same level of the hero share button
+                .block:first-child.block-call_to_action
+                    position: absolute
+                    top: calc(#{$spacing-5} * -3)
+                    transform: translateY(-100%)
+                    left: 0
+                    .block-content
+                        padding-bottom: 0
+                        padding-top: 0
+                        width: auto
+                    .actions
+                        align-items: center
+                        justify-content: space-between
+                        flex-direction: row
+                        grid-column: unset
+                        width: columns(6.2)
+                        @include media-breakpoint-down(xl)
+                            width: columns(7.25)
+                        @media (min-width: 1920px)
+                            width: columns(4.8)
+                        a
+                            padding: var(--btn-padding)
+                            @include media-breakpoint-down(xl)
+                                padding: $btn-padding
+                            @media (min-width: 1920px)
+                                min-width: auto
+                            &::after
+                                display: none
+                            &:first-child
+                                align-items: center
+                                display: flex
+                                gap: $spacing-1
+                                &::before
+                                    @include icon-site(book)
+                            &:not(:first-child)
+                                --btn-background: none
+                                --btn-border: none
+                                --btn-color: #{$color-text}
+                                --btn-hover-background: #{transparentize(black, 0.9)}
+                                --btn-hover-color: #{$color-text}
+                                justify-content: flex-start
+                                min-width: unset
+                                &::after
+                                    display: none
