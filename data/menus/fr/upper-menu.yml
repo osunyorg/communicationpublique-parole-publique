@@ -2,7 +2,7 @@
 title: Upper menu
 items:
 - title: L'association *Communication publique*
-  target: https://site.communicationpublique.osuny.site
+  target: https://www.communication-publique.fr
   kind: url
   new_tab: false
   children: []
