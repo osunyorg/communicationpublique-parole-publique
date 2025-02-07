@@ -51,11 +51,20 @@
                     width: auto
                     @include media-breakpoint-down(xl)
                         padding: $btn-padding
+        @include media-breakpoint-down(desktop)
+            .content
+                display: flex
+                flex-direction: column
+                .hero-text
+                    margin-bottom: 0
+                figure
+                    order: -1
+                    margin-top: $spacing-3
     .document-content
-        @include media-breakpoint-up(desktop)
-            .blocks
-                // to place call to actions buttons at the same level of the hero share button
-                .block:first-child.block-call_to_action
+        .blocks
+            // to place call to actions buttons at the same level of the hero share button
+            .block:first-child.block-call_to_action
+                @include media-breakpoint-up(desktop)
                     position: absolute
                     top: calc(#{$spacing-5} * -2)
                     transform: translateY(-100%)
@@ -99,3 +108,7 @@
                                 min-width: unset
                                 &::after
                                     display: none
+                @include media-breakpoint-down(desktop)
+                    .actions
+                        a:first-child
+                            margin-top: 0
