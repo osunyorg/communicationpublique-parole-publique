@@ -21,15 +21,6 @@ fr:
           value: >-
             https://x.com/Comm_publique?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
-  permalinks:
-    pages_categories: /:slug/
-    projects: /numeros/:year-:slug/
-    projects_categories: /numeros/:slug/
-    posts: /articles/:year-:month-:day-:slug/
-    posts_categories: /articles/:slug/
-    persons: /personnes/:slug/
-    persons_categories: /personnes/categories/:slug/
-    authors: /personnes/:slug/articles/
   taxonomies:
     administrator: administrators
     author: authors
