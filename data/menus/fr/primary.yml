@@ -2,36 +2,46 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Numéros
+  slug: numeros
   target: "/numeros/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Articles
+  slug: articles
   target: "/articles/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Auteurs
+  slug: auteurs
   target: "/auteurs/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/auteurs"
   file: content/fr/pages/auteurs/_index.html
 - title: Contact
+  slug: contact
   target: mailto:secretariat@communication-publique.fr?subject=Contact
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
