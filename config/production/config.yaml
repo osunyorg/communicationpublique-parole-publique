@@ -7,6 +7,11 @@ osuny:
   website:
     id: 06aebf50-f932-4748-9695-3bd4c434cce5
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "parolepublique.fr"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
