@@ -15,682 +15,682 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/articles/2025-01-10-35-ans-et-apres/"
+from = "/articles/2025-01-10-35-ans-et-apres/index.html"
 to = "/articles/2025-10-13-penser-la-reconciliation/"
 
 [[redirects]]
-from = "/articles/2021-11-16-la-confiance-en-france-sortir-du-contresens-1/"
+from = "/articles/2021-11-16-la-confiance-en-france-sortir-du-contresens-1/index.html"
 to = "/articles/2021-11-16-le-rgpd-un-facteur-de-confiance/"
 
 [[redirects]]
-from = "/articles/2021-11-16-la-confiance-a-l-heure-des-reseaux-sociaux-1/"
+from = "/articles/2021-11-16-la-confiance-a-l-heure-des-reseaux-sociaux-1/index.html"
 to = "/articles/2021-11-16-l-ethique-informationnelle-topique-pour-la-confiance/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-lacademie-des-sciences-invenit-et-perficit/"
+from = "/actualites/2024-06-03-lacademie-des-sciences-invenit-et-perficit/index.html"
 to = "/articles/2024-06-03-lacademie-des-sciences-invenit-et-perficit/"
 
 [[redirects]]
-from = "/personnes/categories/adherent/"
+from = "/personnes/categories/adherent/index.html"
 to = "/personnes/categories/communication-publique/adherent/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/"
+from = "/actualites/2024-06-03-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/index.html"
 to = "/articles/2024-06-03-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/"
 
 [[redirects]]
-from = "/actualites/2024-06-24-reseaux-sociaux-et-science-terrain-fertile-pour-la-communication-dinfluence/"
+from = "/actualites/2024-06-24-reseaux-sociaux-et-science-terrain-fertile-pour-la-communication-dinfluence/index.html"
 to = "/articles/2024-06-03-reseaux-sociaux-et-science-terrain-fertile-pour-la-communication-dinfluence/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-prendre-soin-de-lexpertise/"
+from = "/actualites/2024-06-03-prendre-soin-de-lexpertise/index.html"
 to = "/articles/2024-06-03-prendre-soin-de-lexpertise/"
 
 [[redirects]]
-from = "/articles/2024-12-18-la-confiance-une-affaire-de-tiers/"
+from = "/articles/2024-12-18-la-confiance-une-affaire-de-tiers/index.html"
 to = "/articles/2021-11-18-la-confiance-une-affaire-de-tiers/"
 
 [[redirects]]
-from = "/articles/2025-01-27-la-communication-publique-demain-le-defi-democratique/"
+from = "/articles/2025-01-27-la-communication-publique-demain-le-defi-democratique/index.html"
 to = "/articles/2025-01-10-la-communication-publique-demain-le-defi-democratique/"
 
 [[redirects]]
-from = "/equipe/sebastien-soubiran/"
+from = "/equipe/sebastien-soubiran/index.html"
 to = "/personnes/sebastien-soubiran/"
 
 [[redirects]]
-from = "/articles/2021-11-16-sortir-les-jeunes-de-l-exil-electoral-1/"
+from = "/articles/2021-11-16-sortir-les-jeunes-de-l-exil-electoral-1/index.html"
 to = "/articles/2021-11-16-une-politique-a-hauteur-d-homme-remede-a-la-crise-de-confiance/"
 
 [[redirects]]
-from = "/personnes/michael-nathan/actualites/"
+from = "/personnes/michael-nathan/actualites/index.html"
 to = "/personnes/michael-nathan/articles/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/articles/"
 
 [[redirects]]
-from = "/actualites/2024-07-09-prendre-soin-de-lexpertise/"
+from = "/actualites/2024-07-09-prendre-soin-de-lexpertise/index.html"
 to = "/articles/2024-06-03-prendre-soin-de-lexpertise/"
 
 [[redirects]]
-from = "/articles/2023-10-02-l-outremer-au-defi-de-la-visibilite-1/"
+from = "/articles/2023-10-02-l-outremer-au-defi-de-la-visibilite-1/index.html"
 to = "/articles/2023-10-02-des-consultations-plus-responsables-dans-les-marches-publics-de-communication/"
 
 [[redirects]]
-from = "/equipe/yvan-boude/"
+from = "/equipe/yvan-boude/index.html"
 to = "/personnes/yvan-boude/"
 
 [[redirects]]
-from = "/equipe/jocelyn-munos/actualites/"
+from = "/equipe/jocelyn-munos/actualites/index.html"
 to = "/personnes/jocelyn-munos/articles/"
 
 [[redirects]]
-from = "/personnes/stephane-foucart/actualites/"
+from = "/personnes/stephane-foucart/actualites/index.html"
 to = "/personnes/stephane-foucart/articles/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-science-et-communication-publique-apprendre-a-naviguer/"
+from = "/actualites/2024-06-03-science-et-communication-publique-apprendre-a-naviguer/index.html"
 to = "/articles/2024-06-03-science-et-communication-publique-apprendre-a-naviguer/"
 
 [[redirects]]
-from = "/articles/2023-10-02-des-consultations-plus-responsables-dans-les-marches-publics-de-communication-1/"
+from = "/articles/2023-10-02-des-consultations-plus-responsables-dans-les-marches-publics-de-communication-1/index.html"
 to = "/articles/2023-10-02-les-collectivites-locales-ont-massivement-investi-les-reseaux-sociaux/"
 
 [[redirects]]
-from = "/personnes/nicolas-plantey/actualites/"
+from = "/personnes/nicolas-plantey/actualites/index.html"
 to = "/personnes/nicolas-plantey/articles/"
 
 [[redirects]]
-from = "/equipe/claire-omeara/"
+from = "/equipe/claire-omeara/index.html"
 to = "/personnes/claire-omeara/"
 
 [[redirects]]
-from = "/articles/2025-01-14-le-point-aveugle-de-la-communication-publique/"
+from = "/articles/2025-01-14-le-point-aveugle-de-la-communication-publique/index.html"
 to = "/articles/2025-01-10-le-point-aveugle-de-la-communication-publique/"
 
 [[redirects]]
-from = "/articles/2025-01-09-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/"
+from = "/articles/2025-01-09-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/index.html"
 to = "/articles/2025-01-13-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/"
 
 [[redirects]]
-from = "/actualites/2024-07-12-communiquer-pour-constituer-un-public/"
+from = "/actualites/2024-07-12-communiquer-pour-constituer-un-public/index.html"
 to = "/articles/2024-06-03-communiquer-pour-constituer-un-public/"
 
 [[redirects]]
-from = "/personnes/bernadette-bensaude-vincent/actualites/"
+from = "/personnes/bernadette-bensaude-vincent/actualites/index.html"
 to = "/personnes/bernadette-bensaude-vincent/articles/"
 
 [[redirects]]
-from = "/articles/2025-01-20-placer-la-rse-au-coeur-de-lentreprise-un-defi-quotidien/"
+from = "/articles/2025-01-20-placer-la-rse-au-coeur-de-lentreprise-un-defi-quotidien/index.html"
 to = "/articles/2025-01-10-placer-la-rse-au-coeur-de-lentreprise-un-defi-quotidien/"
 
 [[redirects]]
-from = "/articles/2021-11-16-une-politique-a-hauteur-d-homme-remede-a-la-crise-de-confiance-1/"
+from = "/articles/2021-11-16-une-politique-a-hauteur-d-homme-remede-a-la-crise-de-confiance-1/index.html"
 to = "/articles/2021-11-16-la-confiance-a-l-heure-des-reseaux-sociaux/"
 
 [[redirects]]
-from = "/equipe/jacques-attali/"
+from = "/equipe/jacques-attali/index.html"
 to = "/personnes/jacques-attali/"
 
 [[redirects]]
-from = "/articles/2023-10-02-quelle-place-pour-la-communication-environnementale-aujourd-hui/"
+from = "/articles/2023-10-02-quelle-place-pour-la-communication-environnementale-aujourd-hui/index.html"
 to = "/articles/2022-10-02-quelle-place-pour-la-communication-environnementale-aujourd-hui/"
 
 [[redirects]]
-from = "/articles/2022-10-03-la-communication-responsable-juste-et-mieux-1/"
+from = "/articles/2022-10-03-la-communication-responsable-juste-et-mieux-1/index.html"
 to = "/articles/2022-10-03-sensibiliser-les-populations-locales-a-la-culture-du-risque/"
 
 [[redirects]]
-from = "/articles/2025-10-14-communicants-publics-comment-faire-evoluer-les-pratiques-1/"
+from = "/articles/2025-10-14-communicants-publics-comment-faire-evoluer-les-pratiques-1/index.html"
 to = "/articles/2025-10-13-la-communication-publique-un-instrument-democratique-en-periode-troublee/"
 
 [[redirects]]
-from = "/articles/2025-01-11-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/"
+from = "/articles/2025-01-11-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/index.html"
 to = "/articles/2025-01-13-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/"
 
 [[redirects]]
-from = "/actualites/2024-06-24-nouvelle-priorite-de-la-communication-de-letat-transversalite/"
+from = "/actualites/2024-06-24-nouvelle-priorite-de-la-communication-de-letat-transversalite/index.html"
 to = "/articles/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite/"
 
 [[redirects]]
-from = "/personnes/categories/gouvernance/conseil-dadministration/"
+from = "/personnes/categories/gouvernance/conseil-dadministration/index.html"
 to = "/personnes/categories/communication-publique/conseil-dadministration/"
 
 [[redirects]]
-from = "/articles/2020-11-17-je-sais-bien-mais-quand-meme-1/"
+from = "/articles/2020-11-17-je-sais-bien-mais-quand-meme-1/index.html"
 to = "/articles/2020-11-17-mutation-ecologique-un-autre-etat-pour-d-autres-crises/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/articles/2022-10-03-responsabilite-sociale-et-environnementale-a-la-dila-pragmatisme-et-exemplarite-1/"
+from = "/articles/2022-10-03-responsabilite-sociale-et-environnementale-a-la-dila-pragmatisme-et-exemplarite-1/index.html"
 to = "/articles/2022-10-03-quelle-communication-sur-la-crise-climatique/"
 
 [[redirects]]
-from = "/articles/2023-10-02-quelle-place-pour-la-communication-environnementale-aujourd-hui-1/"
+from = "/articles/2023-10-02-quelle-place-pour-la-communication-environnementale-aujourd-hui-1/index.html"
 to = "/articles/2022-10-03-les-mots-du-climat/"
 
 [[redirects]]
-from = "/articles/2023-10-02-trop-1/"
+from = "/articles/2023-10-02-trop-1/index.html"
 to = "/articles/2023-10-02-pouvoir-et-societes-dialoguer-pour-agir/"
 
 [[redirects]]
-from = "/equipe/nicolas-plantey/actualites/"
+from = "/equipe/nicolas-plantey/actualites/index.html"
 to = "/personnes/nicolas-plantey/articles/"
 
 [[redirects]]
-from = "/articles/2021-11-16-le-meridien-decide-de-la-verite-1/"
+from = "/articles/2021-11-16-le-meridien-decide-de-la-verite-1/index.html"
 to = "/articles/2021-11-16-les-conditions-de-la-confiance-langagiere/"
 
 [[redirects]]
-from = "/articles/2020-11-17-le-pouvoir-du-langage-argumenter-plutot-qu-informer-1/"
+from = "/articles/2020-11-17-le-pouvoir-du-langage-argumenter-plutot-qu-informer-1/index.html"
 to = "/articles/2020-11-17-covid-19-et-5g-la-fabrique-d-une-fake-news/"
 
 [[redirects]]
-from = "/articles/2022-10-03-sensibiliser-les-populations-locales-a-la-culture-du-risque-1/"
+from = "/articles/2022-10-03-sensibiliser-les-populations-locales-a-la-culture-du-risque-1/index.html"
 to = "/articles/2022-10-03-responsabilite-sociale-et-environnementale-a-la-dila-pragmatisme-et-exemplarite/"
 
 [[redirects]]
-from = "/articles/2021-11-16-comprendre-les-echecs-de-la-communication-publique-lors-de-la-crise-sanitaire-1/"
+from = "/articles/2021-11-16-comprendre-les-echecs-de-la-communication-publique-lors-de-la-crise-sanitaire-1/index.html"
 to = "/articles/2021-11-16-faire-face-au-defi-de-la-defiance/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-communiquer-pour-constituer-un-public/"
+from = "/actualites/2024-06-03-communiquer-pour-constituer-un-public/index.html"
 to = "/articles/2024-06-03-communiquer-pour-constituer-un-public/"
 
 [[redirects]]
-from = "/articles/2023-10-02-les-mots-du-climat/"
+from = "/articles/2023-10-02-les-mots-du-climat/index.html"
 to = "/articles/2022-10-03-les-mots-du-climat/"
 
 [[redirects]]
-from = "/articles/2023-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix/"
+from = "/articles/2023-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix/index.html"
 to = "/articles/2022-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix/"
 
 [[redirects]]
-from = "/equipe/jessica-romano/"
+from = "/equipe/jessica-romano/index.html"
 to = "/personnes/jessica-romano/"
 
 [[redirects]]
-from = "/articles/2023-02-21-sncf-une-entreprise-qui-ressemble-aux-francais-une-marque-que-les-rassemble/"
+from = "/articles/2023-02-21-sncf-une-entreprise-qui-ressemble-aux-francais-une-marque-que-les-rassemble/index.html"
 to = "/articles/2023-10-02-sncf-une-entreprise-qui-ressemble-aux-francais-une-marque-que-les-rassemble/"
 
 [[redirects]]
-from = "/articles/2023-10-02-de-quoi-challempagne-est-elle-le-nom-1/"
+from = "/articles/2023-10-02-de-quoi-challempagne-est-elle-le-nom-1/index.html"
 to = "/articles/2023-10-02-l-outremer-au-defi-de-la-visibilite/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique/"
+from = "/actualites/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique/index.html"
 to = "/articles/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique/"
 
 [[redirects]]
-from = "/articles/2025-01-08-manifeste-pour-la-communication-publique/"
+from = "/articles/2025-01-08-manifeste-pour-la-communication-publique/index.html"
 to = "/articles/2025-01-14-manifeste-pour-la-communication-publique/"
 
 [[redirects]]
-from = "/actualites/2024-06-30-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/"
+from = "/actualites/2024-06-30-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/index.html"
 to = "/articles/2024-06-03-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/"
 
 [[redirects]]
-from = "/personnes/francois-leray/actualites/"
+from = "/personnes/francois-leray/actualites/index.html"
 to = "/personnes/francois-leray/articles/"
 
 [[redirects]]
-from = "/articles/2024-12-13-sans-communication-pas-dinformation/"
+from = "/articles/2024-12-13-sans-communication-pas-dinformation/index.html"
 to = "/articles/2023-10-02-sans-communication-pas-dinformation/"
 
 [[redirects]]
-from = "/equipe/pascale-barillot/"
+from = "/equipe/pascale-barillot/index.html"
 to = "/personnes/pascale-barillot/"
 
 [[redirects]]
-from = "/equipe/pierre-paul-zalio/actualites/"
+from = "/equipe/pierre-paul-zalio/actualites/index.html"
 to = "/personnes/pierre-paul-zalio/articles/"
 
 [[redirects]]
-from = "/articles/2020-11-17-les-enjeux-de-transparence-dans-la-decision-publique-1/"
+from = "/articles/2020-11-17-les-enjeux-de-transparence-dans-la-decision-publique-1/index.html"
 to = "/articles/2020-11-17-langage-verite-exactitude/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-barometre-2024-de-lesprit-critique-duniverscience/"
+from = "/actualites/2024-06-03-barometre-2024-de-lesprit-critique-duniverscience/index.html"
 to = "/articles/2024-06-03-barometre-2024-de-lesprit-critique-duniverscience/"
 
 [[redirects]]
-from = "/articles/2022-10-03-les-mots-du-climat-1/"
+from = "/articles/2022-10-03-les-mots-du-climat-1/index.html"
 to = "/articles/2022-10-03-bifurcations/"
 
 [[redirects]]
-from = "/articles/2020-12-14-la-communication-publique-en-belgique-aux-temps-troubles-de-la-covid-19-1/"
+from = "/articles/2020-12-14-la-communication-publique-en-belgique-aux-temps-troubles-de-la-covid-19-1/index.html"
 to = "/articles/2020-12-14-la-communication-publique-en-belgique-aux-temps-troubles-de-la-covid-19/"
 
 [[redirects]]
-from = "/articles/2020-11-17-la-quete-eperdue-de-nouvelles-certitudes-dans-la-regulation-politique-de-la-crise-sanitaire-1/"
+from = "/articles/2020-11-17-la-quete-eperdue-de-nouvelles-certitudes-dans-la-regulation-politique-de-la-crise-sanitaire-1/index.html"
 to = "/articles/2020-11-17-un-moment-d-exception-le-droit-en-arret-maladie/"
 
 [[redirects]]
-from = "/articles/2023-10-02-l-infobesite-une-invitation-a-oser-defricher-1/"
+from = "/articles/2023-10-02-l-infobesite-une-invitation-a-oser-defricher-1/index.html"
 to = "/articles/2023-10-02-trop-d-informations-tue-la-communication/"
 
 [[redirects]]
-from = "/equipe/mathieu-schneider/"
+from = "/equipe/mathieu-schneider/index.html"
 to = "/personnes/mathieu-schneider/"
 
 [[redirects]]
-from = "/personnes/pierre-paul-zalio/actualites/"
+from = "/personnes/pierre-paul-zalio/actualites/index.html"
 to = "/personnes/pierre-paul-zalio/articles/"
 
 [[redirects]]
-from = "/actualites/2024-11-05-science-et-communication-publique-apprendre-a-naviguer/"
+from = "/actualites/2024-11-05-science-et-communication-publique-apprendre-a-naviguer/index.html"
 to = "/articles/2024-06-03-science-et-communication-publique-apprendre-a-naviguer/"
 
 [[redirects]]
-from = "/actualites/2024-06-24-comment-les-lobbys-utilisent-la-desinformation-scientifique/"
+from = "/actualites/2024-06-24-comment-les-lobbys-utilisent-la-desinformation-scientifique/index.html"
 to = "/articles/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique/"
 
 [[redirects]]
-from = "/equipe/bernadette-bensaude-vincent/actualites/"
+from = "/equipe/bernadette-bensaude-vincent/actualites/index.html"
 to = "/personnes/bernadette-bensaude-vincent/articles/"
 
 [[redirects]]
-from = "/articles/2023-10-02-recits-imaginaires-pour-les-transitions-climatiques-1/"
+from = "/articles/2023-10-02-recits-imaginaires-pour-les-transitions-climatiques-1/index.html"
 to = "/articles/2023-10-02-la-communication-pilier-strategique-de-la-politique-monetaire/"
 
 [[redirects]]
-from = "/articles/2023-10-02-trop-d-informations-tue-la-communication-1/"
+from = "/articles/2023-10-02-trop-d-informations-tue-la-communication-1/index.html"
 to = "/articles/2022-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix/"
 
 [[redirects]]
-from = "/articles/2024-12-13-letat-face-a-lincommunication-communiquer-autour-daxes-prioritaires/"
+from = "/articles/2024-12-13-letat-face-a-lincommunication-communiquer-autour-daxes-prioritaires/index.html"
 to = "/articles/2023-10-02-letat-face-a-lincommunication-communiquer-autour-daxes-prioritaires/"
 
 [[redirects]]
-from = "/equipe/nicolas-plantey/"
+from = "/equipe/nicolas-plantey/index.html"
 to = "/personnes/nicolas-plantey/"
 
 [[redirects]]
-from = "/equipe/categories/auteurs-parole-publique/"
+from = "/equipe/categories/auteurs-parole-publique/index.html"
 to = "/personnes/categories/parole-publique/auteur/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-les-humanites-sinvitent-dans-le-debat-public/"
+from = "/actualites/2024-06-03-les-humanites-sinvitent-dans-le-debat-public/index.html"
 to = "/articles/2024-06-03-les-humanites-sinvitent-dans-le-debat-public/"
 
 [[redirects]]
-from = "/articles/2024-12-18-communication-climatique-10-erreurs-frequentes/"
+from = "/articles/2024-12-18-communication-climatique-10-erreurs-frequentes/index.html"
 to = "/articles/2022-10-18-communication-climatique-10-erreurs-frequentes/"
 
 [[redirects]]
-from = "/actualites/2024-06-28-science-et-communication-publique-apprendre-a-naviguer/"
+from = "/actualites/2024-06-28-science-et-communication-publique-apprendre-a-naviguer/index.html"
 to = "/articles/2024-06-03-science-et-communication-publique-apprendre-a-naviguer/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-repondre-a-la-defiance-construire-la-confiance/"
+from = "/actualites/2024-06-03-repondre-a-la-defiance-construire-la-confiance/index.html"
 to = "/articles/2024-06-03-repondre-a-la-defiance-construire-la-confiance/"
 
 [[redirects]]
-from = "/articles/2023-10-02-pour-une-participation-citoyenne-plus-inclusive-1/"
+from = "/articles/2023-10-02-pour-une-participation-citoyenne-plus-inclusive-1/index.html"
 to = "/articles/2023-10-02-trop/"
 
 [[redirects]]
-from = "/actualites/2024-06-01-35-ans/"
+from = "/actualites/2024-06-01-35-ans/index.html"
 to = "/articles/2024-06-03-35-ans/"
 
 [[redirects]]
-from = "/equipe/bernadette-bensaude-vincent/"
+from = "/equipe/bernadette-bensaude-vincent/index.html"
 to = "/personnes/bernadette-bensaude-vincent/"
 
 [[redirects]]
-from = "/actualites/2024-11-05-prendre-soin-de-lexpertise/"
+from = "/actualites/2024-11-05-prendre-soin-de-lexpertise/index.html"
 to = "/articles/2024-06-03-prendre-soin-de-lexpertise/"
 
 [[redirects]]
-from = "/equipe/laure-aurelia-guillou/"
+from = "/equipe/laure-aurelia-guillou/index.html"
 to = "/personnes/laure-aurelia-guillou/"
 
 [[redirects]]
-from = "/articles/2022-10-03-bifurcations-1/"
+from = "/articles/2022-10-03-bifurcations-1/index.html"
 to = "/articles/2021-11-16-le-meridien-decide-de-la-verite/"
 
 [[redirects]]
-from = "/actualites/2024-11-18-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/"
+from = "/actualites/2024-11-18-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/index.html"
 to = "/articles/2024-06-03-le-dialogue-entre-sciences-recherche-et-societe-une-question-de-communication-publique/"
 
 [[redirects]]
-from = "/equipe/david-chavalarias/"
+from = "/equipe/david-chavalarias/index.html"
 to = "/personnes/david-chavalarias/"
 
 [[redirects]]
-from = "/equipe/armelle-tanvez/"
+from = "/equipe/armelle-tanvez/index.html"
 to = "/personnes/armelle-tanvez/"
 
 [[redirects]]
-from = "/numeros/2020-parole-publique-n30/"
+from = "/numeros/2020-parole-publique-n30/index.html"
 to = "/numeros/2023-parole-publique-n30/"
 
 [[redirects]]
-from = "/articles/2020-11-17-heurs-et-malheurs-de-l-organisation-en-reseau-pour-l-action-publique-1/"
+from = "/articles/2020-11-17-heurs-et-malheurs-de-l-organisation-en-reseau-pour-l-action-publique-1/index.html"
 to = "/articles/2020-11-17-une-ethique-de-l-interdependance/"
 
 [[redirects]]
-from = "/equipe/laurent-riera/"
+from = "/equipe/laurent-riera/index.html"
 to = "/personnes/laurent-riera/"
 
 [[redirects]]
-from = "/articles/2021-11-16-faire-face-au-defi-de-la-defiance-1/"
+from = "/articles/2021-11-16-faire-face-au-defi-de-la-defiance-1/index.html"
 to = "/articles/2021-11-16-la-confiance-en-france-sortir-du-contresens/"
 
 [[redirects]]
-from = "/articles/2023-10-02-ecologie-humaine-et-entreprise-performante/"
+from = "/articles/2023-10-02-ecologie-humaine-et-entreprise-performante/index.html"
 to = "/articles/2022-10-02-ecologie-humaine-et-entreprise-performante/"
 
 [[redirects]]
-from = "/articles/2023-10-02-les-collectivites-locales-ont-massivement-investi-les-reseaux-sociaux-1/"
+from = "/articles/2023-10-02-les-collectivites-locales-ont-massivement-investi-les-reseaux-sociaux-1/index.html"
 to = "/articles/2023-10-02-pour-une-participation-citoyenne-plus-inclusive/"
 
 [[redirects]]
-from = "/articles/2020-11-17-langage-verite-exactitude-1/"
+from = "/articles/2020-11-17-langage-verite-exactitude-1/index.html"
 to = "/articles/2020-11-17-la-quete-eperdue-de-nouvelles-certitudes-dans-la-regulation-politique-de-la-crise-sanitaire/"
 
 [[redirects]]
-from = "/equipe/francois-leray/"
+from = "/equipe/francois-leray/index.html"
 to = "/personnes/francois-leray/"
 
 [[redirects]]
-from = "/equipe/michael-nathan/actualites/"
+from = "/equipe/michael-nathan/actualites/index.html"
 to = "/personnes/michael-nathan/articles/"
 
 [[redirects]]
-from = "/actualites/2024-07-11-35-ans/"
+from = "/actualites/2024-07-11-35-ans/index.html"
 to = "/articles/2024-06-03-35-ans/"
 
 [[redirects]]
-from = "/actualites/2024-07-12-lacademie-des-sciences-invenit-et-perficit/"
+from = "/actualites/2024-07-12-lacademie-des-sciences-invenit-et-perficit/index.html"
 to = "/articles/2024-06-03-lacademie-des-sciences-invenit-et-perficit/"
 
 [[redirects]]
-from = "/equipe/stephane-foucart/actualites/"
+from = "/equipe/stephane-foucart/actualites/index.html"
 to = "/personnes/stephane-foucart/articles/"
 
 [[redirects]]
-from = "/personnes/categories/communication-publique/gouvernance/conseil-dadministration/"
+from = "/personnes/categories/communication-publique/gouvernance/conseil-dadministration/index.html"
 to = "/personnes/categories/communication-publique/conseil-dadministration/"
 
 [[redirects]]
-from = "/equipe/vincent-giret/"
+from = "/equipe/vincent-giret/index.html"
 to = "/personnes/vincent-giret/"
 
 [[redirects]]
-from = "/articles/2023-10-02-pouvoir-et-societes-dialoguer-pour-agir-1/"
+from = "/articles/2023-10-02-pouvoir-et-societes-dialoguer-pour-agir-1/index.html"
 to = "/articles/2023-10-02-nouvelles-pratiques-de-communication-et-reconfiguration-du-lien-social/"
 
 [[redirects]]
-from = "/equipe/fabrice-moreau/"
+from = "/equipe/fabrice-moreau/index.html"
 to = "/personnes/fabrice-moreau/"
 
 [[redirects]]
-from = "/articles/2021-11-16-le-rgpd-un-facteur-de-confiance-1/"
+from = "/articles/2021-11-16-le-rgpd-un-facteur-de-confiance-1/index.html"
 to = "/articles/2021-11-16-comment-regagner-la-confiance-sans-armes-ni-violence/"
 
 [[redirects]]
-from = "/personnes/catherine-espalioux-fraudeau/"
+from = "/personnes/catherine-espalioux-fraudeau/index.html"
 to = "/personnes/catherine-espalioux/"
 
 [[redirects]]
-from = "/articles/2020-11-17-universites-les-services-communication-face-a-des-defis-majeurs-1/"
+from = "/articles/2020-11-17-universites-les-services-communication-face-a-des-defis-majeurs-1/index.html"
 to = "/articles/2020-11-17-cnaf-le-journal-de-la-resilience-de-la-dsi-face-a-la-crise/"
 
 [[redirects]]
-from = "/equipe/francois-leray/actualites/"
+from = "/equipe/francois-leray/actualites/index.html"
 to = "/personnes/francois-leray/articles/"
 
 [[redirects]]
-from = "/equipe/stephane-foucart/"
+from = "/equipe/stephane-foucart/index.html"
 to = "/personnes/stephane-foucart/"
 
 [[redirects]]
-from = "/articles/2022-10-03-l-attractivite-territoriale-un-mythe-a-deconstruire-1/"
+from = "/articles/2022-10-03-l-attractivite-territoriale-un-mythe-a-deconstruire-1/index.html"
 to = "/articles/2022-10-03-la-communication-responsable-juste-et-mieux/"
 
 [[redirects]]
-from = "/articles/2021-11-16-quelle-technologie-pour-notre-futur-1/"
+from = "/articles/2021-11-16-quelle-technologie-pour-notre-futur-1/index.html"
 to = "/articles/2021-11-16-une-question-d-adherence/"
 
 [[redirects]]
-from = "/actualites/2024-07-12-les-humanites-sinvitent-dans-le-debat-public/"
+from = "/actualites/2024-07-12-les-humanites-sinvitent-dans-le-debat-public/index.html"
 to = "/articles/2024-06-03-les-humanites-sinvitent-dans-le-debat-public/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-reseaux-sociaux-et-science-terrain-fertile-pour-la-communication-dinfluence/"
+from = "/actualites/2024-06-03-reseaux-sociaux-et-science-terrain-fertile-pour-la-communication-dinfluence/index.html"
 to = "/articles/2024-06-03-reseaux-sociaux-et-science-terrain-fertile-pour-la-communication-dinfluence/"
 
 [[redirects]]
-from = "/equipe/david-even/"
+from = "/equipe/david-even/index.html"
 to = "/personnes/david-even/"
 
 [[redirects]]
-from = "/equipe/jocelyn-munos/"
+from = "/equipe/jocelyn-munos/index.html"
 to = "/personnes/jocelyn-munos/"
 
 [[redirects]]
-from = "/articles/2020-11-17-pour-une-gestion-de-crise-plus-efficiente-1/"
+from = "/articles/2020-11-17-pour-une-gestion-de-crise-plus-efficiente-1/index.html"
 to = "/articles/2020-11-17-universites-les-services-communication-face-a-des-defis-majeurs/"
 
 [[redirects]]
-from = "/equipe/claire-omeara/actualites/"
+from = "/equipe/claire-omeara/actualites/index.html"
 to = "/personnes/claire-omeara/articles/"
 
 [[redirects]]
-from = "/personnes/claire-omeara/actualites/"
+from = "/personnes/claire-omeara/actualites/index.html"
 to = "/personnes/claire-omeara/articles/"
 
 [[redirects]]
-from = "/articles/2024-12-13-aux-archives-citoyens/"
+from = "/articles/2024-12-13-aux-archives-citoyens/index.html"
 to = "/articles/2023-10-02-aux-archives-citoyens/"
 
 [[redirects]]
-from = "/articles/2023-10-02-soutenabilites-orchestrer-et-planifier-l-action-publique/"
+from = "/articles/2023-10-02-soutenabilites-orchestrer-et-planifier-l-action-publique/index.html"
 to = "/articles/2022-10-02-ecologie-humaine-et-entreprise-performante/"
 
 [[redirects]]
-from = "/personnes/categories/membre/"
+from = "/personnes/categories/membre/index.html"
 to = "/personnes/categories/communication-publique/adherent/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg/"
+from = "/actualites/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg/index.html"
 to = "/articles/2024-06-03-le-jardin-des-sciences-de-luniversite-de-strasbourg/"
 
 [[redirects]]
-from = "/equipe/didier-pourquery/"
+from = "/equipe/didier-pourquery/index.html"
 to = "/personnes/didier-pourquery/"
 
 [[redirects]]
-from = "/articles/2021-11-16-comment-regagner-la-confiance-sans-armes-ni-violence-1/"
+from = "/articles/2021-11-16-comment-regagner-la-confiance-sans-armes-ni-violence-1/index.html"
 to = "/articles/2021-11-16-nudge-et-la-communication-publique-retrouve-le-sourire/"
 
 [[redirects]]
-from = "/personnes/categories/auteurs-parole-publique/"
+from = "/personnes/categories/auteurs-parole-publique/index.html"
 to = "/personnes/categories/parole-publique/auteur/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-repondre-a-la-defiance-construire-la-confiance-quelle-place-pour-les-sciences-dans-la-communication/"
+from = "/actualites/2024-06-03-repondre-a-la-defiance-construire-la-confiance-quelle-place-pour-les-sciences-dans-la-communication/index.html"
 to = "/articles/2024-06-03-repondre-a-la-defiance-construire-la-confiance/"
 
 [[redirects]]
-from = "/projets/2024-parole-publique-31/"
+from = "/projets/2024-parole-publique-31/index.html"
 to = "/numeros/2024-parole-publique-31/"
 
 [[redirects]]
-from = "/equipe/categories/membre/"
+from = "/equipe/categories/membre/index.html"
 to = "/personnes/categories/communication-publique/adherent/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/personnes/"
 
 [[redirects]]
-from = "/articles/2023-10-02-soutenabilites-orchestrer-et-planifier-l-action-publique-1/"
+from = "/articles/2023-10-02-soutenabilites-orchestrer-et-planifier-l-action-publique-1/index.html"
 to = "/articles/2022-10-02-soutenabilites-orchestrer-et-planifier-l-action-publique-1/"
 
 [[redirects]]
-from = "/personnes/categories/auteur/"
+from = "/personnes/categories/auteur/index.html"
 to = "/personnes/categories/parole-publique/auteur/"
 
 [[redirects]]
-from = "/articles/2021-11-16-pour-un-management-par-la-confiance-eclairee-1/"
+from = "/articles/2021-11-16-pour-un-management-par-la-confiance-eclairee-1/index.html"
 to = "/articles/2021-11-16-comment-rester-credible-quand-les-institutions-les-politiques-les-medias-ne-le-sont-plus/"
 
 [[redirects]]
-from = "/articles/2024-12-18-echec-de-la-communication-environnementale/"
+from = "/articles/2024-12-18-echec-de-la-communication-environnementale/index.html"
 to = "/articles/2022-10-18-echec-de-la-communication-environnementale/"
 
 [[redirects]]
-from = "/articles/2020-11-17-la-communication-interne-dans-la-crise-entre-action-et-projection-1/"
+from = "/articles/2020-11-17-la-communication-interne-dans-la-crise-entre-action-et-projection-1/index.html"
 to = "/articles/2020-11-17-pour-une-gestion-de-crise-plus-efficiente/"
 
 [[redirects]]
-from = "/equipe/marie-yanowitz-durand/actualites/"
+from = "/equipe/marie-yanowitz-durand/actualites/index.html"
 to = "/personnes/marie-yanowitz-durand/articles/"
 
 [[redirects]]
-from = "/equipe/romain-pigenel/"
+from = "/equipe/romain-pigenel/index.html"
 to = "/personnes/romain-pigenel/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-35-ans/"
+from = "/actualites/2024-06-03-35-ans/index.html"
 to = "/articles/2024-06-03-35-ans/"
 
 [[redirects]]
-from = "/articles/2021-11-16-la-confiance-est-la-force-des-temps-difficiles-1/"
+from = "/articles/2021-11-16-la-confiance-est-la-force-des-temps-difficiles-1/index.html"
 to = "/articles/2021-11-16-pour-un-management-par-la-confiance-eclairee/"
 
 [[redirects]]
-from = "/articles/2020-11-17-quelle-presse-desormais-1/"
+from = "/articles/2020-11-17-quelle-presse-desormais-1/index.html"
 to = "/articles/2020-11-17-le-pouvoir-du-langage-argumenter-plutot-qu-informer/"
 
 [[redirects]]
-from = "/equipe/alain-cariou/"
+from = "/equipe/alain-cariou/index.html"
 to = "/personnes/alain-cariou/"
 
 [[redirects]]
-from = "/equipe/marie-yanowitz-durand/"
+from = "/equipe/marie-yanowitz-durand/index.html"
 to = "/personnes/marie-yanowitz-durand/"
 
 [[redirects]]
-from = "/articles/2022-10-03-bifurcation/"
+from = "/articles/2022-10-03-bifurcation/index.html"
 to = "/articles/2022-10-03-bifurcations/"
 
 [[redirects]]
-from = "/articles/2020-11-17-un-palais-sans-public-une-institution-culturelle-face-a-la-crise-1/"
+from = "/articles/2020-11-17-un-palais-sans-public-une-institution-culturelle-face-a-la-crise-1/index.html"
 to = "/articles/2020-11-17-veille-des-perceptions-et-communication-sociale-en-afrique-de-l-ouest/"
 
 [[redirects]]
-from = "/articles/2023-10-02-la-communication-pilier-strategique-de-la-politique-monetaire-1/"
+from = "/articles/2023-10-02-la-communication-pilier-strategique-de-la-politique-monetaire-1/index.html"
 to = "/articles/2023-10-02-de-quoi-challempagne-est-elle-le-nom/"
 
 [[redirects]]
-from = "/articles/2023-10-02-nouvelles-pratiques-de-communication-et-reconfiguration-du-lien-social-1/"
+from = "/articles/2023-10-02-nouvelles-pratiques-de-communication-et-reconfiguration-du-lien-social-1/index.html"
 to = "/articles/2023-10-02-face-a-la-pandemie-quatre-obstacles-a-une-communication-efficiente/"
 
 [[redirects]]
-from = "/equipe/categories/intervenant/"
+from = "/equipe/categories/intervenant/index.html"
 to = "/personnes/categories/communication-publique/intervenant/"
 
 [[redirects]]
-from = "/personnes/categories/intervenant/"
+from = "/personnes/categories/intervenant/index.html"
 to = "/personnes/categories/communication-publique/intervenant/"
 
 [[redirects]]
-from = "/personnes/jocelyn-munos/actualites/"
+from = "/personnes/jocelyn-munos/actualites/index.html"
 to = "/personnes/jocelyn-munos/articles/"
 
 [[redirects]]
-from = "/equipe/categories/conseil-dadministration/"
+from = "/equipe/categories/conseil-dadministration/index.html"
 to = "/personnes/categories/communication-publique/conseil-dadministration/"
 
 [[redirects]]
-from = "/articles/2021-11-16-nudge-et-la-communication-publique-retrouve-le-sourire-1/"
+from = "/articles/2021-11-16-nudge-et-la-communication-publique-retrouve-le-sourire-1/index.html"
 to = "/articles/2021-11-16-quelle-technologie-pour-notre-futur/"
 
 [[redirects]]
-from = "/equipe/aurelie-martzel/"
+from = "/equipe/aurelie-martzel/index.html"
 to = "/personnes/aurelie-martzel/"
 
 [[redirects]]
-from = "/equipe/estelle-denize/"
+from = "/equipe/estelle-denize/index.html"
 to = "/personnes/estelle-denize/"
 
 [[redirects]]
-from = "/articles/2021-11-16-averroes-le-discours-decisif-1/"
+from = "/articles/2021-11-16-averroes-le-discours-decisif-1/index.html"
 to = "/articles/2021-11-16-archives-de-l-etat-du-secret-defense-au-secret-defiance/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/numeros/"
 
 [[redirects]]
-from = "/equipe/carine-delrieu/"
+from = "/equipe/carine-delrieu/index.html"
 to = "/personnes/carine-delrieu/"
 
 [[redirects]]
-from = "/equipe/pierre-paul-zalio/"
+from = "/equipe/pierre-paul-zalio/index.html"
 to = "/personnes/pierre-paul-zalio/"
 
 [[redirects]]
-from = "/articles/2021-11-16-l-ethique-informationnelle-topique-pour-la-confiance-1/"
+from = "/articles/2021-11-16-l-ethique-informationnelle-topique-pour-la-confiance-1/index.html"
 to = "/articles/2021-11-16-la-communication-interne-face-a-la-destabilisation-du-travail-des-organisations-et-des-salaries/"
 
 [[redirects]]
-from = "/equipe/michael-nathan/"
+from = "/equipe/michael-nathan/index.html"
 to = "/personnes/michael-nathan/"
 
 [[redirects]]
-from = "/articles/2024-12-13-lincommunication-est-la-condition-de-la-communication/"
+from = "/articles/2024-12-13-lincommunication-est-la-condition-de-la-communication/index.html"
 to = "/articles/2023-10-02-lincommunication-est-la-condition-de-la-communication/"
 
 [[redirects]]
-from = "/articles/2025-01-10-manifeste-pour-la-communication-publique/"
+from = "/articles/2025-01-10-manifeste-pour-la-communication-publique/index.html"
 to = "/articles/2025-01-14-manifeste-pour-la-communication-publique/"
 
 [[redirects]]
-from = "/articles/2020-11-17-le-conseiller-scientifique-chainon-manquant-entre-experts-et-decideurs-1/"
+from = "/articles/2020-11-17-le-conseiller-scientifique-chainon-manquant-entre-experts-et-decideurs-1/index.html"
 to = "/articles/2020-11-17-protection-sanitaire-l-etat-face-a-la-responsabilite-individuelle/"
 
 [[redirects]]
-from = "/personnes/marie-yanowitz-durand/actualites/"
+from = "/personnes/marie-yanowitz-durand/actualites/index.html"
 to = "/personnes/marie-yanowitz-durand/articles/"
 
 [[redirects]]
-from = "/articles/2021-11-16-bifurcations-1/"
+from = "/articles/2021-11-16-bifurcations-1/index.html"
 to = "/articles/2021-11-16-le-meridien-decide-de-la-verite/"
 
 [[redirects]]
-from = "/articles/2023-10-02-ecologie-humaine-et-entreprise-performante-1/"
+from = "/articles/2023-10-02-ecologie-humaine-et-entreprise-performante-1/index.html"
 to = "/articles/2022-10-02-quelle-place-pour-la-communication-environnementale-aujourd-hui/"
 
 [[redirects]]
-from = "/articles/2025-01-10-le-point-aveugle-de-la-communication-publique-1-1-2/"
+from = "/articles/2025-01-10-le-point-aveugle-de-la-communication-publique-1-1-2/index.html"
 to = "/articles/2025-01-10-le-faux-dans-tous-ses-etats/"
 
 [[redirects]]
-from = "/articles/2023-10-02-face-a-la-pandemie-quatre-obstacles-a-une-communication-efficiente-1/"
+from = "/articles/2023-10-02-face-a-la-pandemie-quatre-obstacles-a-une-communication-efficiente-1/index.html"
 to = "/articles/2023-10-02-l-infobesite-une-invitation-a-oser-defricher/"
 
 [[redirects]]
-from = "/equipe/anais-lancon/"
+from = "/equipe/anais-lancon/index.html"
 to = "/personnes/anais-lancon/"
 
 [[redirects]]
-from = "/actualites/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite/"
+from = "/actualites/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite/index.html"
 to = "/articles/2024-06-03-nouvelle-priorite-de-la-communication-de-letat-transversalite/"
 
 [[redirects]]
-from = "/articles/2023-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix-1/"
+from = "/articles/2023-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix-1/index.html"
 to = "/articles/2022-10-02-ecologie-humaine-et-entreprise-performante/"
 
 [[redirects]]
-from = "/articles/2025-01-10-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/"
+from = "/articles/2025-01-10-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/index.html"
 to = "/articles/2025-01-13-pour-ses-35-ans-communication-publique-fait-peau-neuve-et-revisite-ses-outils-de-communication/"
 
