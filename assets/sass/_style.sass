@@ -47,7 +47,7 @@
             .block:first-child.block-call_to_action
                 @include media-breakpoint-up(desktop)
                     position: absolute
-                    top: calc(#{$spacing-5} * -2)
+                    top: calc(#{$spacing-3} * -2)
                     transform: translateY(-100%)
                     left: 0
                     .block-content
@@ -90,6 +90,8 @@
                                 &::after
                                     display: none
 
+                @include media-breakpoint-up(xxl)
+                    top: calc(#{$spacing-5} * -2)
                 @include media-breakpoint-down(desktop)
                     .actions
                         a:first-child
