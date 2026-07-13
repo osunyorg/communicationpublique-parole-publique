@@ -579,6 +579,10 @@ from = "/equipe/alain-cariou/index.html"
 to = "/personnes/alain-cariou/"
 
 [[redirects]]
+from = "/articles/2026-07-10-manipulation-de-l-information-anticiper-la-riposte/index.html"
+to = "/articles/2026-07-10-logiques-d-influence-et-doctrine-francaise/"
+
+[[redirects]]
 from = "/equipe/marie-yanowitz-durand/index.html"
 to = "/personnes/marie-yanowitz-durand/"
 
