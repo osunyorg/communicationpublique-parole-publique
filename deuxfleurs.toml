@@ -287,6 +287,10 @@ from = "/actualites/2024-11-05-science-et-communication-publique-apprendre-a-nav
 to = "/articles/2024-06-03-science-et-communication-publique-apprendre-a-naviguer/"
 
 [[redirects]]
+from = "/articles/2026-07-10-ingerences-informationnelles-l-eclairage-des-sciences-comportementales-1/index.html"
+to = "/articles/2026-07-10-face-aux-infox-regagner-la-confiance-les-nouveaux-reflexes-de-communication-publique/"
+
+[[redirects]]
 from = "/actualites/2024-06-24-comment-les-lobbys-utilisent-la-desinformation-scientifique/index.html"
 to = "/articles/2024-06-03-comment-les-lobbys-utilisent-la-desinformation-scientifique/"
 
