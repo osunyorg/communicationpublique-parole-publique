@@ -367,6 +367,10 @@ from = "/equipe/david-chavalarias/index.html"
 to = "/personnes/david-chavalarias/"
 
 [[redirects]]
+from = "/articles/2017-03-01-enseigner-la-complexite-pour-restaurer-l-unite-de-la-nature-humaine/index.html"
+to = "/articles/2018-03-01-enseigner-la-complexite-pour-restaurer-l-unite-de-la-nature-humaine/"
+
+[[redirects]]
 from = "/equipe/armelle-tanvez/index.html"
 to = "/personnes/armelle-tanvez/"
 
