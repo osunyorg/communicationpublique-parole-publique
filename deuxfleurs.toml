@@ -211,6 +211,10 @@ from = "/articles/2023-10-02-transition-durable-et-strategies-de-communications-
 to = "/articles/2022-10-02-transition-durable-et-strategies-de-communications-l-heure-des-choix/"
 
 [[redirects]]
+from = "/numeros/2017-parole-publique-n13-14/index.html"
+to = "/numeros/2016-parole-publique-n13-14/"
+
+[[redirects]]
 from = "/equipe/jessica-romano/index.html"
 to = "/personnes/jessica-romano/"
 
