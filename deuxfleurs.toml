@@ -107,6 +107,10 @@ from = "/equipe/claire-omeara/index.html"
 to = "/personnes/claire-omeara/"
 
 [[redirects]]
+from = "/numeros/2016-paroles-publique-n10/index.html"
+to = "/numeros/2015-paroles-publique-n10/"
+
+[[redirects]]
 from = "/articles/2025-01-14-le-point-aveugle-de-la-communication-publique/index.html"
 to = "/articles/2025-01-10-le-point-aveugle-de-la-communication-publique/"
 
